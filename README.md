@@ -1,2 +1,2 @@
 # Word-Scramble
- This is a word scramble game
+ This is a word scramble game. The user has 3 levels to choose from. The higher the level, the longer the word. Feel free to add more words, levels and tries to make a more challenging game. Cheers!
